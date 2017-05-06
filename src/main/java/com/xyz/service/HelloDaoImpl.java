@@ -6,7 +6,7 @@ import org.springframework.stereotype.Repository;
 public class HelloDaoImpl implements HelloDao {
 
 	public String getDetails() {
-		return "I am spring boot";
+		return "I am spring boot :)";
 	}
 
 }
